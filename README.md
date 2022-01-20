@@ -19,6 +19,7 @@ $stock Shows a list of all accounts instock
 
 
 **How to setup**
+
 Step 1: Go to Discord Developer panel
 
 Step 2: Make a new application
