@@ -1,0 +1,17 @@
+{
+    "ownerID": "", //edit this and put the server owner id here
+    "prefix": "", //put what ever key prefix you would like here for example "!"
+    "Color": "RANDOM", //This will just show embed as random color put hex color code here if you want it to be a specific color
+    "GenChannelID": "", //Channel you want people to be able to gen accs in
+    "GenRole": "",// Role required to gen put the id 
+    "GenCooldown": "900000", // Cooldown time here
+    "footer": "Made By UmRange", // Edit to what ever you would like footer to say
+    "botToken": "", //Put your bot token here.
+    "ErrorEmoji": "", // Change this to what ever emoji
+    "SuccessEmoji": "", // Change this to what ever emoji
+    "WarningEmoji": "", // Change this to what ever emoji
+    "eth": "", // Change this to your eth addy
+    "btc": "",// Change this to your btc addy
+    "Paypal": "", // Change this to your paypal 
+    "Telegram": "" // Change this to your telegram
+}
