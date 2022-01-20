@@ -1,7 +1,8 @@
 # Discord-Account-Account-Generator-
 Discord Account Generator that is easy to edit and learn from
 
-Commands
+**Commands**
+
 $addnewfile Makes a new file from the channel
 
 $restock Restocks a service from the channel
@@ -17,7 +18,7 @@ $restock Restock a file from the text channel
 $stock Shows a list of all accounts instock
 
 
-How to setup
+**How to setup**
 Step 1: Go to Discord Developer panel
 
 Step 2: Make a new application
