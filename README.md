@@ -41,6 +41,6 @@ Step 6: Now go to the file search bar where it shows the name and such of the fi
 
 Step 7: Type this in the cmd line "npm install discord.js"
 
-step 8: Go to the file in the folder called "Run" its a batch file just run it and it will start your bot up and use in the server!
+step 8: Go to the file in the folder called "start" its a batch file just run it and it will start your bot up and use in the server!
 
-Step 9: To add accounts go to the folder called Accounts and add your accounts in there. IT WILL SHOW YOUR CAPTURE IT WILL ALSO DELETE THE LINE AFTER IT HAS GENERATED USED!
+Step 9: To add accounts go to the folder called alts and add your accounts in there. IT WILL SHOW YOUR CAPTURE IT WILL ALSO DELETE THE LINE AFTER IT HAS GENERATED USED!
