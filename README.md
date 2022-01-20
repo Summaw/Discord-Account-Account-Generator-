@@ -3,12 +3,19 @@ Discord Account Generator that is easy to edit and learn from
 
 Commands
 $addnewfile Makes a new file from the channel
+
 $restock Restocks a service from the channel
+
 $gen Gen the account 
+
 $help Shows command list
+
 $repo Shows where to download the source at
+
 $restock Restock a file from the text channel
+
 $stock Shows a list of all accounts instock
+
 
 How to setup
 Step 1: Go to Discord Developer panel
