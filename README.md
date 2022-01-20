@@ -1,6 +1,15 @@
 # Discord-Account-Account-Generator-
 Discord Account Generator that is easy to edit and learn from
 
+Commands
+<prefix add new file> Makes a new file from the channel
+<prefix bulk restock> Restocks a service from the channel
+<prefix gen service name> Gen the account 
+<prefix help> Shows command list
+<prefix repo> Shows where to download the source at
+<prefix restock> Restock a file from the text channel
+<prefix stock> Shows a list of all accounts instock
+
 How to setup
 Step 1: Go to Discord Developer panel
 
