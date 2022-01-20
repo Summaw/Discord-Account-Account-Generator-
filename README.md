@@ -1,6 +1,11 @@
 # Discord-Account-Account-Generator-
 Discord Account Generator that is easy to edit and learn from
 
+
+**How to get bot working**
+
+**[+] Make  a folder names "alts" then make a text file and name it to the name of service you want them to gen for example "Netflix" then the bot will display that in the stock command.**
+
 **Commands**
 
 $addnewfile Makes a new file from the channel
